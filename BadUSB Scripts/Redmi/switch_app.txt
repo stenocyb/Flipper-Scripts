@@ -1,3 +1,10 @@
+REM Author: stenocyb
+REM Description: Opens App Switcher, selects the app below of the current running application and switches to it
+REM Version: 1.0
+REM Category: Redmi
+REM Tested On: Redmi Note 12 | MIUI 14.0.11 | Android 13 TKQ1.221114.001
+
+
 ALT TAB
 DELAY 1000
 DOWNARROW

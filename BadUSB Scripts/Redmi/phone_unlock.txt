@@ -1,3 +1,11 @@
+REM Author: stenocyb
+REM Description: Unlocks a Redmi phone with a predefined passcode
+REM Version: 1.0
+REM Category: Redmi
+REM Tested On: Redmi Note 12 | MIUI 14.0.11 | Android 13 TKQ1.221114.001
+
+REM Replace '111111' with your personal unlock code
+
 GUI e
 DELAY 700
 STRING 111111
